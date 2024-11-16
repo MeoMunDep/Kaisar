@@ -1,0 +1,9 @@
+{
+  "timeZone": "en-US",
+  "delayEachAccount": [5, 8],
+  "timeToRestartAllAccounts": 86400,
+  "howManyAccountsRunInOneTime": 100,
+  "isDoTasks": true,
+  "isPlayGames": true,
+  "howManyTicketsDoYouWantToConvert": 1
+}
