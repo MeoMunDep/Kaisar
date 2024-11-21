@@ -6,7 +6,7 @@
 - Group: [Link](t.me/KeoAirDropFreeNe)
 - Channel: [Link](t.me/KeoAirDropFreeNee)
 
-> Help me with your referral [Link](https://zero.kaisar.io/register?ref=bWclGP560)
+> Help me with your referral [Link](https://zero.kaisar.io/register?ref=QdKziI222)
 
 ## 🚀 Getting Started
 
