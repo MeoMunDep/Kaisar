@@ -5,5 +5,6 @@
   "howManyAccountsRunInOneTime": 100,
   "isDoTasks": true,
   "isPlayGames": true,
+  "skipInvalidProxy": false,
   "howManyTicketsDoYouWantToConvert": 1
 }
