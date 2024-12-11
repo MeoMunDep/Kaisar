@@ -34,12 +34,14 @@ To get started with the bot, follow these steps:
 {
   "timeZone": "en-US",
   "delayEachAccount": [5, 8],
-  "timeToRestartAllAccounts": 300,
-  "numberOfAccountsRunInOneTime": 100,
+  "timeToRestartAllAccounts": 86400,
+  "howManyAccountsRunInOneTime": 100,
   "isDoTasks": true,
-  "isPlayingGames": true,
+  "isPlayGames": true,
+  "skipInvalidProxy": false,
   "howManyTicketsDoYouWantToConvert": 1
 }
+
 ```
 
 ### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/16073)
