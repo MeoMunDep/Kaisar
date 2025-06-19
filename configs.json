@@ -1,8 +1,7 @@
 {
-  "timeZone": "en-US",
-  "delayEachAccount": [5, 8],
+  "delayEachAccount": [1, 1],
   "timeToRestartAllAccounts": 86400,
-  "howManyAccountsRunInOneTime": 100,
+  "howManyAccountsRunInOneTime": 10000,
   "isDoTasks": true,
   "isPlayGames": true,
   "skipInvalidProxy": false,
