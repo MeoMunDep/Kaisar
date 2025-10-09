@@ -38,11 +38,11 @@ echo Checking node_modules location...
 if exist "..\node_modules" (
     cd ..
     echo Installing/Updating dependencies in parent directory...
-    npm install user-agents axios meo-forkcy-utils meo-forkcy-colors https-proxy-agent socks-proxy-agent crypto-js 
+    npm install user-agents axios meo-forkcy-utils meo-forkcy-colors meo-forkcy-proxy meo-forkcy-logger
     cd %~dp0
 ) else (
     echo Installing dependencies in current directory...
-    npm install user-agents axios meo-forkcy-colors meo-forkcy-utils https-proxy-agent socks-proxy-agent crypto-js 
+    npm install user-agents axios meo-forkcy-colors meo-forkcy-utils meo-forkcy-proxy meo-forkcy-logger
 )
 echo.
 echo Dependencies installation completed!
