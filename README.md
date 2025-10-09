@@ -23,7 +23,7 @@ To get started with the bot, follow these steps:
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i user-agents axios colors meo-forkcy-colors meo-forkcy-utils https-proxy-agent socks-proxy-agent crypto-js
+   npm i user-agents axios colors meo-forkcy-colors meo-forkcy-utils meo-forkcy-proxy meo-forkcy-logger
    ```
 
 2. **Prepare Configuration Files:**
